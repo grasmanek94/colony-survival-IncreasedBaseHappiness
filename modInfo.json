@@ -1,0 +1,23 @@
+[
+	{
+		"compatibleversions": [
+			"0.7.1",
+			"0.7.2"
+		],
+		"enabled": true,
+		"marksgamemodded": true,
+		"name": "grasmanek94.IncreasedBaseHappiness",
+		"version": "0.0.1",
+		"website": "https://github.com/grasmanek94/colony-survival-IncreasedBaseHappiness",
+		"about": "Increases the base happiness of all colonies (adjustable in baseHappiness.txt)",
+		"patchnotes": [
+			{
+				"version": "0.0.1",
+				"notes": [
+					"Initial Release"
+				]
+			}
+		],
+		"dllpath": "grasmanek94.IncreasedBaseHappiness.dll"
+	}
+]
